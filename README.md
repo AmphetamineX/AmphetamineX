@@ -1,21 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jadnast Rich</h1>
-<h3 align="center">I'm developer and designer from Ukraine</h3>
+<h1 align="center">Hi 👋, I'm Amphetamine</h1>
+<h3 align="center">I am a developer and designer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadnast&label=Profile%20views&color=0e75b6&style=flat" alt="jadnast" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadnast" alt="jadnast" /></a> </p>
 
-- 🔭 I’m currently working on [Akio Project](https://akio.cf/)
-
 - 🌱 I’m currently learning **Lua**
-
-- 👨‍💻 All of my projects are available at [I work about it](I work about it)
-
-- 📝 I regularly write articles on [Unfortunately, but no (](Unfortunately, but no ()
-
-- 💬 Ask me about **HTML5, JS or Design**
-
-- 📫 How to reach me **jadnast@akio.cf**
 
 - ⚡ Fun fact **I want to create my own cryptocurrency**
 
